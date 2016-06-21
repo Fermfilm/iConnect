@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        android:id="@+id/container">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="321dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.76">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="通知設定"
+                    android:id="@+id/noti_label"
+                    android:layout_centerHorizontal="true"
+                    android:textSize="@dimen/font_size_L"
+                    android:textColor="@color/app_text"
+                    android:layout_marginTop="@dimen/padding_size_SS"
+                    android:layout_marginLeft="@dimen/padding_size_SS"
+                    android:layout_marginRight="@dimen/padding_size_SS"
+                    android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="チェックをすると通知がくるようになります"
+                    android:textSize="@dimen/font_size_S"
+                    android:layout_marginTop="@dimen/padding_size_SS"
+                    android:layout_marginLeft="@dimen/padding_size_SS"
+                    android:layout_marginRight="@dimen/padding_size_SS"
+                    android:layout_marginBottom="@dimen/padding_size_SS"
+                    android:id="@+id/notiSab_label"/>
+            </LinearLayout>
+
+            <CheckBox
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/noti_checkBox"
+                android:checked="false" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|top">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="通知音設定"
+                android:id="@+id/selectAlarm_Label"
+                android:layout_centerHorizontal="true"
+                android:textSize="@dimen/font_size_L"
+                android:textColor="@color/app_text"
+                android:layout_marginTop="@dimen/padding_size_SS"
+                android:layout_marginLeft="@dimen/padding_size_SS"
+                android:layout_marginRight="@dimen/padding_size_SS"
+                android:layout_marginBottom="@dimen/padding_size_SS" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="@dimen/font_size_S"
+                android:layout_marginTop="@dimen/padding_size_SS"
+                android:layout_marginLeft="@dimen/padding_size_SS"
+                android:layout_marginRight="@dimen/padding_size_SS"
+                android:layout_marginBottom="@dimen/padding_size_SS"
+                android:id="@+id/selectAlarm"
+                android:layout_weight="0.04" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="通知音鳴動時間設定"
+                    android:id="@+id/ringingTime_Label"
+                    android:layout_centerHorizontal="true"
+                    android:textSize="@dimen/font_size_L"
+                    android:textColor="@color/app_text"
+                    android:layout_marginTop="@dimen/padding_size_SS"
+                    android:layout_marginLeft="@dimen/padding_size_SS"
+                    android:layout_marginRight="@dimen/padding_size_SS"
+                    />
+
+                <Spinner
+                    android:layout_width="match_parent"
+                    android:layout_height="54dp"
+                    android:id="@+id/ringingTime_spinner" />
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="言語"
+            android:id="@+id/language_label"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/app_text"
+            android:textSize="@dimen/font_size_L"
+            android:layout_marginTop="@dimen/padding_size_SS"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_marginRight="@dimen/padding_size_SS"
+            android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/language_spinner"
+            android:textSize="@dimen/font_size_L"
+            android:spinnerMode="dropdown"
+            android:layout_marginTop="@dimen/padding_size_SS"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_marginRight="@dimen/padding_size_SS"
+            android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="受け取るクーポンのジャンル"
+            android:id="@+id/genre_label"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/app_text"
+            android:textSize="@dimen/font_size_L"
+            android:layout_marginTop="@dimen/padding_size_SS"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_marginRight="@dimen/padding_size_SS"
+            android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+        <Spinner
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/genre_spn"
+            android:textSize="@dimen/font_size_L"
+            android:spinnerMode="dropdown"
+            android:layout_marginTop="@dimen/padding_size_SS"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_marginRight="@dimen/padding_size_SS"
+            android:layout_marginBottom="@dimen/padding_size_SS"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DeviceName"
+            android:id="@+id/deviceName_label"
+            android:layout_weight="0.04"
+            android:layout_centerHorizontal="true"
+            android:textSize="@dimen/font_size_L"
+            android:layout_marginTop="@dimen/padding_size_SS"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_marginRight="@dimen/padding_size_SS"
+            android:layout_marginBottom="@dimen/padding_size_SS"
+            android:textColor="@color/app_text"
+            android:visibility="gone"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/deviceName"
+            android:inputType="textCapWords"
+            android:lines="1"
+            android:maxLength="20"
+            android:layout_centerInParent="true"
+            android:background="@drawable/edit_text"
+            android:textSize="@dimen/font_size_L"
+            android:layout_marginTop="@dimen/padding_size_SS"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_marginRight="@dimen/padding_size_SS"
+            android:layout_marginBottom="@dimen/padding_size_SS"
+            android:visibility="invisible"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

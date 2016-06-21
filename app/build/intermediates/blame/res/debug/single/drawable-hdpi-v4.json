@@ -1,0 +1,714 @@
+[
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_taka.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\t_taka.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\up.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_youngman_49.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_youngman_49.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_map.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\test_map.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_girl_19.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_girl_19.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_oldwoman_86.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_oldwoman_86.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_edit.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_play_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_audio_in_progress.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\play_audio_in_progress.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\disconnect.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\disconnect.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_video.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\ic_action_video.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_oldman_75.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_oldman_75.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_0_mono_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_0_mono_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_play.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_play.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\app_icon.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_setting_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_youngman_28.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_youngman_28.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_brown.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_brown.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wifi_icon.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\wifi_icon.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_pink.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_pink.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_off_mono_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_off_mono_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_search.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\drawable-hdpi-v4\\places_ic_search.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_1_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_1_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_oldwoman_85.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_oldwoman_85.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_setting_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_white.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_white.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_purple.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_purple.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paint.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\paint.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_kujaku.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\t_kujaku.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_0_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_0_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_off_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_off_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\paint_selected.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\paint_selected.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bubble.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\chat_bubble.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_yellowgreen.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_yellowgreen.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_mic.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\ic_action_mic.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_oldwoman_100.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_oldwoman_100.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_audio.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\play_audio.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_skyblue.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_skyblue.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\party_animal.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\party_animal.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_1_mono_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_1_mono_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_play_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_play_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_blue.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_blue.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.2\\res\\drawable-hdpi-v4\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bubble_mine.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\chat_bubble_mine.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_on.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.2\\res\\drawable-hdpi-v4\\cast_ic_notification_on.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_pause_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_youngman_27.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_youngman_27.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\microphone_start.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\microphone_start.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_notification.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\icon_notification.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_hiyoko.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\t_hiyoko.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_man_49.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_man_49.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_attachment.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\ic_action_attachment.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_niwatori.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\t_niwatori.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_0.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.2\\res\\drawable-hdpi-v4\\cast_ic_notification_0.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_picture.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\ic_action_picture.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_2_mono_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_2_mono_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\drawable-hdpi-v4\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\unknown.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\unknown.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_red.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_red.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\large.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\large.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folder_emtpy.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\folder_emtpy.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\test_gods.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\test_gods.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\small.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\small.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_peachpuff.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_peachpuff.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_woman_69.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_woman_69.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.2\\res\\drawable-hdpi-v4\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_tamago.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\t_tamago.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\medium.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\medium.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\places_ic_clear.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\drawable-hdpi-v4\\places_ic_clear.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_hiyoko0.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\t_hiyoko0.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_youngman_25.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_youngman_25.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_small_off_client.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.2\\res\\drawable-hdpi-v4\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_gray.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_gray.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_yellow.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_yellow.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_full_open_on_phone.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_on_2_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_on_2_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_disabled_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_disabled_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\folder_full.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\folder_full.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\niconico0.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\niconico0.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_black.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_black.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_green.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_green.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_youngman_26.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_youngman_26.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_on_mono_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_on_mono_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_1.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.2\\res\\drawable-hdpi-v4\\cast_ic_notification_1.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-plus\\9.0.2\\res\\drawable-hdpi-v4\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_cast_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_cast_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\play_video_button.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\play_video_button.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\button.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ok.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\ok.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_pause.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_pause.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_text_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_long.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\icon_long.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cast_ic_notification_2.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.0.2\\res\\drawable-hdpi-v4\\cast_ic_notification_2.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cl_coral.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\cl_coral.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edit_text.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\edit_text.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t_houou.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\t_houou.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_whiteman2.jpg",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_whiteman2.jpg"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_pressed.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_ic_googleplayservices.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_ic_googleplayservices.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\microphone_stop.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\microphone_stop.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\file_attached.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\file_attached.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_plus_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pe_youngman_35.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\pe_youngman_35.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_media_route_disabled_mono_dark.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_media_route_disabled_mono_dark.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable-hdpi-v4\\common_google_signin_btn_text_light_focused.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_pause_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_pause_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\powered_by_google_light.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.2\\res\\drawable-hdpi-v4\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_tshirt.png",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\drawable-hdpi\\icon_tshirt.png"
+    }
+]

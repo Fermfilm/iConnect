@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcfbfb">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="受け取る情報のジャンルを選択"
+        android:textSize="@dimen/font_size_L"
+        android:id="@+id/genre_label"
+        android:layout_marginTop="@dimen/padding_size_SS"
+        android:layout_marginLeft="@dimen/padding_size_SS"
+        android:layout_marginRight="@dimen/padding_size_SS"
+        />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></LinearLayout>
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/editText" />
+
+
+</LinearLayout>

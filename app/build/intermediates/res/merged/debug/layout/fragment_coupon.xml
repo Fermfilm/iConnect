@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        android:id="@+id/container">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="1">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/coupon_limit"
+                android:text="あと29日使用可能"
+                android:textSize="@dimen/font_size_L"
+                android:layout_marginTop="@dimen/padding_size_SS"
+                android:layout_marginLeft="@dimen/padding_size_SS"
+                android:layout_marginRight="@dimen/padding_size_SS"
+                android:layout_marginBottom="@dimen/padding_size_SS"
+                android:layout_weight="0.98" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="チャージ"
+                android:id="@+id/charge_btn"
+                android:background="@drawable/my_shape"
+                android:layout_marginTop="@dimen/padding_size_SS"
+                android:layout_marginLeft="@dimen/padding_size_SS"
+                android:layout_marginRight="@dimen/padding_size_S"
+                android:layout_marginBottom="@dimen/padding_size_SS"
+                android:backgroundTint="#faf2ec97" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="送信内容確認"
+                android:id="@+id/check_btn"
+                android:layout_marginTop="@dimen/padding_size_SS"
+                android:layout_marginLeft="@dimen/padding_size_SS"
+                android:layout_marginRight="@dimen/padding_size_SS"
+                android:layout_marginBottom="@dimen/padding_size_SS"
+                android:background="@drawable/my_shape"
+                android:backgroundTint="#dda599" />
+
+        </LinearLayout>
+
+
+
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/scrollView"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#a9ebba89">
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="1">
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="商品画像"
+                            android:textSize="@dimen/font_size_M"
+                            android:id="@+id/gods_img_label"
+                            android:layout_marginTop="@dimen/padding_size_SS"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+                            />
+
+                        <ImageButton
+                            android:layout_width="170dp"
+                            android:layout_height="170dp"
+                            android:id="@+id/gods_img"
+                            android:background="@drawable/cl_gray"
+                            android:layout_marginTop="@dimen/padding_size_SS"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+                            android:layout_marginBottom="@dimen/padding_size_SS"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text = "商品名"
+                            android:id="@+id/gods_name_label"
+                            android:layout_centerHorizontal="true"
+                            android:textSize="@dimen/font_size_M"
+                            android:layout_marginTop="@dimen/padding_size_SS"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+                            />
+
+
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/gods_name"
+                            android:inputType="textCapWords"
+                            android:lines="1"
+                            android:maxLength="20"
+                            android:textSize="@dimen/font_size_M"
+                            android:layout_centerInParent="true"
+                            android:background="@drawable/edit_text"
+
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+                            android:layout_marginBottom="@dimen/padding_size_SS"
+                            android:text="◯◯ラーメン" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="商品紹介\n＆クーポン割引き内容"
+                            android:id="@+id/coupon_detail_label"
+                            android:layout_centerHorizontal="true"
+                            android:textSize="@dimen/font_size_M"
+                            android:layout_marginTop="@dimen/padding_size_SS"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS" />
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/coupon_detail"
+                            android:gravity="top|left"
+                            android:textSize="@dimen/font_size_M"
+                            android:background="@drawable/edit_text"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+                            android:layout_marginBottom="@dimen/padding_size_SS"
+                            android:text="20％OFFで500円！\n自慢の豚骨ラーメンを召し上がれ！" />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="1" >
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_vertical" >
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="マップ画像"
+                            android:textSize="@dimen/font_size_M"
+                            android:id="@+id/map_image_label"
+                            android:layout_marginTop="@dimen/padding_size_SS"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"/>
+
+                        <ImageButton
+                            android:layout_width="170dp"
+                            android:layout_height="170dp"
+                            android:id="@+id/map_image"
+                            android:background="@drawable/cl_gray"
+                            android:layout_marginTop="@dimen/padding_size_SS"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+                            android:layout_marginBottom="@dimen/padding_size_SS" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent" >
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="お店情報"
+                            android:id="@+id/shop_detail_label"
+                            android:layout_centerHorizontal="true"
+                            android:textSize="@dimen/font_size_M"
+                            android:layout_marginTop="@dimen/padding_size_SS"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS" />
+
+                        <EditText
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:id="@+id/shop_detail"
+                            android:textSize="@dimen/font_size_S"
+                            android:background="@drawable/edit_text"
+                            android:gravity="top|left"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+                            android:layout_marginBottom="@dimen/padding_size_SS"
+                            android:text="店名：◯◯◯\n住所：〒◯◯◯-△△△△\n◯◯県△△市◯◯区△丁目◯番\n電話番号:◯◯◯-△△△△\nURL:http://◯◯◯△△△△" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="ジャンル"
+                        android:id="@+id/genre_label"
+                        android:layout_centerHorizontal="true"
+                        android:textSize="@dimen/font_size_M"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS" />
+
+                    <Spinner
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/genre_spn"
+                        android:textSize="@dimen/font_size_L"
+                        android:layout_alignBottom="@+id/age_label"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:spinnerMode="dropdown"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="注意事項"
+                        android:id="@+id/note_label"
+                        android:layout_centerHorizontal="true"
+                        android:textSize="@dimen/font_size_M"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS" />
+
+                    <EditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:id="@+id/coupon_note"
+                        android:textSize="@dimen/font_size_S"
+                        android:background="@drawable/edit_text"
+                        android:gravity="top|left"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS"
+                        android:text="一人一品限り\n2015/10/25の14:00～16:00まで使用可能" />
+                </LinearLayout>
+
+            </LinearLayout>
+
+
+        </ScrollView>
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

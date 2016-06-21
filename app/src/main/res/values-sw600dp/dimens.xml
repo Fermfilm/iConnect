@@ -1,0 +1,29 @@
+<resources>
+    <!-- Used : XperiaTablet, Nexus7Tablet(2011) L=48sp, LL=60-->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Drawing: brush sizes -->
+    <dimen name="small_brush">10dp</dimen>
+    <integer name="small_size">10</integer>
+    <dimen name="medium_brush">20dp</dimen>
+    <integer name="medium_size">20</integer>
+    <dimen name="large_brush">30dp</dimen>
+    <integer name="large_size">30</integer>
+
+    <!-- padding sizes -->
+    <dimen name="padding_size_SS">12dp</dimen>
+    <dimen name="padding_size_S">20dp</dimen>
+    <dimen name="padding_size_M">28dp</dimen>
+    <dimen name="padding_size_L">38dp</dimen>
+    <dimen name="padding_size_LL">52dp</dimen>
+    <dimen name="padding_size_LLL">100dp</dimen>
+    <!-- Text sizes -->
+    <dimen name="font_size_SS">10sp</dimen>
+    <dimen name="font_size_S">18sp</dimen>
+    <dimen name="font_size_M">20sp</dimen>
+    <dimen name="font_size_L">25sp</dimen>
+    <dimen name="font_size_LL">28sp</dimen>
+
+</resources>

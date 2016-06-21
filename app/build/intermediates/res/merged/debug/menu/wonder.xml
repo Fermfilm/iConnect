@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fermfilm.iConnect.WonderComActivity" >
+    <item
+        android:id="@+id/discover"
+        android:title="@string/discover_peers" />
+
+    <item
+        android:id="@+id/disconnect"
+        android:title="@string/disconnect" />
+
+    <item
+        android:id="@+id/test_chatroom"
+        android:title="@string/test_chatroom" />
+
+    <item
+        android:id="@+id/setting"
+        android:title="@string/setting" />
+    <item
+        android:id="@+id/client_mode"
+        android:title="@string/client_mode" />
+    <item
+        android:id="@+id/server_mode"
+        android:title="@string/server_mode" />
+</menu>

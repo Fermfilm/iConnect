@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <!-- 空の View -->
+    <View
+        android:id="@+id/center_view"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_centerInParent="true"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="中止(解決済み)"
+        android:id="@+id/res_cancel"
+        android:textSize="@dimen/font_size_L"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/padding_size_SS"
+        android:layout_marginLeft="@dimen/padding_size_SS"
+        android:layout_marginRight="@dimen/padding_size_SS"
+        android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@+id/center_view"
+        android:id="@+id/res_tableRow"
+        android:background="#fffaf1">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="bottom">
+
+            <ImageButton
+                android:layout_width="170dp"
+                android:layout_height="170dp"
+                android:id="@+id/res_man_image"
+                android:scaleType="centerCrop"
+                android:background="@drawable/unknown"
+                android:layout_marginTop="@dimen/padding_size_SS"
+                android:layout_marginLeft="@dimen/padding_size_SS"
+                android:layout_marginRight="@dimen/padding_size_SS"
+                android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+
+
+
+
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="1">
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5">
+
+                    <ImageButton
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:id="@+id/res_cloth_image"
+                        android:layout_below="@+id/request_label"
+                        android:layout_centerHorizontal="true"
+                        android:layout_gravity="center" />
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:id="@+id/res_cloth_View"
+                        android:background="@drawable/icon_tshirt"
+                        android:layout_gravity="center" />
+                </FrameLayout>
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5">
+
+                    <ImageButton
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:id="@+id/res_jupon_image"
+
+                        android:layout_gravity="center" />
+
+                    <ImageView
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+
+                        android:id="@+id/res_jupon_View"
+                        android:background="@drawable/icon_long"
+                        android:layout_gravity="center" />
+                </FrameLayout>
+            </LinearLayout>
+
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="名前(ニックネーム)"
+                android:id="@+id/res_name_label"
+                android:layout_centerHorizontal="true"
+                android:textSize="@dimen/font_size_L"
+                android:textColor="@color/app_text"
+                android:layout_marginTop="@dimen/padding_size_SS"
+                android:layout_marginLeft="@dimen/padding_size_SS"
+                android:layout_marginRight="@dimen/padding_size_SS"
+                android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textSize="@dimen/font_size_L"
+                android:id="@+id/res_name"
+                android:layout_marginTop="@dimen/padding_size_SS"
+                android:layout_marginLeft="@dimen/padding_size_SS"
+                android:layout_marginRight="@dimen/padding_size_SS"
+                android:layout_marginBottom="@dimen/padding_size_SS"
+                />
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="性別"
+                        android:id="@+id/res_sex_label"
+                        android:textSize="@dimen/font_size_L"
+                        android:textColor="@color/app_text"
+                        android:layout_below="@+id/sex_spinner"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textSize="@dimen/font_size_L"
+                        android:id="@+id/res_sex"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="1">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="年齢"
+                        android:id="@+id/res_age_label"
+                        android:textSize="@dimen/font_size_L"
+                        android:textColor="@color/app_text"
+                        android:layout_alignParentLeft="true"
+                        android:layout_alignParentStart="true"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textSize="@dimen/font_size_L"
+                        android:id="@+id/res_age"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS"
+                        />
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </TableRow>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="困ったこと"
+        android:id="@+id/res_req_label"
+        android:textSize="@dimen/font_size_LL"
+        android:textColor="@color/app_text"
+        android:layout_below="@+id/center_view"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="@dimen/padding_size_SS"
+        android:layout_marginLeft="@dimen/padding_size_SS"
+        android:layout_marginRight="@dimen/padding_size_SS"
+        android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="@dimen/font_size_LL"
+        android:id="@+id/res_req"
+        android:layout_below="@+id/res_req_label"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignRight="@+id/res_req_label"
+        android:layout_alignEnd="@+id/res_req_label"
+        android:layout_marginTop="@dimen/padding_size_SS"
+        android:layout_marginLeft="@dimen/padding_size_SS"
+        android:layout_marginRight="@dimen/padding_size_SS"
+        android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:id="@+id/res_detail"
+        android:textSize="@dimen/font_size_LL"
+        android:layout_below="@+id/res_req"
+        android:layout_alignLeft="@+id/res_req"
+        android:layout_alignStart="@+id/res_req"
+        android:layout_marginTop="@dimen/padding_size_SS"
+        android:layout_marginLeft="@dimen/padding_size_SS"
+        android:layout_above="@+id/res_text"
+        android:layout_alignRight="@+id/res_req"
+        android:layout_alignEnd="@+id/res_req"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="この人を見つけて\n助けてあげてください！"
+        android:id="@+id/res_text"
+        android:textSize="@dimen/font_size_LL"
+        android:layout_above="@+id/res_cancel"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="@dimen/padding_size_SS"
+        android:layout_marginLeft="@dimen/padding_size_SS"
+        android:layout_marginRight="@dimen/padding_size_SS"
+        android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+
+
+
+</RelativeLayout>

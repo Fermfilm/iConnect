@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/container">
+
+
+
+        <!-- 空の View -->
+        <View
+            android:id="@+id/center_view"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_centerInParent="true"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:background="#fffaf1"
+            android:layout_alignBottom="@+id/center_view"
+            android:orientation="horizontal"
+
+            >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="200dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="bottom"
+                android:weightSum="1">
+
+                <ImageButton
+                    android:layout_width="170dp"
+                    android:layout_height="170dp"
+                    android:id="@+id/man_image"
+                    android:scaleType="centerCrop"
+                    android:background="@drawable/unknown"
+                    android:layout_marginTop="@dimen/padding_size_SS"
+                    android:layout_marginLeft="@dimen/padding_size_SS"
+                    android:layout_marginRight="@dimen/padding_size_SS"
+                    android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+
+
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="1">
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.5">
+
+                        <ImageButton
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:id="@+id/cloth_image"
+                            android:layout_below="@+id/request_label"
+                            android:layout_centerHorizontal="true"
+                            android:layout_gravity="center" />
+
+                        <ImageView
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:id="@+id/cloth_View"
+                            android:background="@drawable/icon_tshirt"
+                            android:layout_gravity="center" />
+                    </FrameLayout>
+                    <FrameLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.5">
+
+                        <ImageButton
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:id="@+id/jupon_image"
+
+                            android:layout_gravity="center" />
+
+                        <ImageView
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+
+                            android:id="@+id/jupon_View"
+                            android:background="@drawable/icon_long"
+                            android:layout_gravity="center" />
+                    </FrameLayout>
+                </LinearLayout>
+
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                >
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    >
+
+                    <ImageButton
+                        android:layout_width="100dp"
+                        android:layout_height="100dp"
+                        android:id="@+id/title_image"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS"
+                        android:background="#00000000" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="愛の見習い"
+                        android:id="@+id/title_label"
+                        android:textSize="@dimen/font_size_L"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS"
+                        android:gravity="center" />
+                </LinearLayout>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text = "名前(ニックネーム)"
+                    android:id="@+id/name_label"
+                    android:layout_centerHorizontal="true"
+                    android:textSize="@dimen/font_size_L"
+                    android:textColor="@color/app_text"
+                    android:layout_marginTop="@dimen/padding_size_SS"
+                    android:layout_marginLeft="@dimen/padding_size_SS"
+                    android:layout_marginRight="@dimen/padding_size_SS"
+                    />
+
+
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/name"
+                    android:inputType="textCapWords"
+                    android:lines="1"
+                    android:maxLength="20"
+                    android:textSize="@dimen/font_size_L"
+                    android:layout_centerInParent="true"
+                    android:background="@drawable/edit_text"
+
+                    android:layout_marginLeft="@dimen/padding_size_SS"
+                    android:layout_marginRight="@dimen/padding_size_SS"
+                    android:layout_marginBottom="@dimen/padding_size_SS" />
+
+                <LinearLayout
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:weightSum="2"
+                    >
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_weight="1"
+                        >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="性別"
+                            android:id="@+id/sex_label"
+                            android:textSize="@dimen/font_size_L"
+                            android:textColor="@color/app_text"
+                            android:layout_below="@+id/sex_spinner"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="@dimen/padding_size_SS"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+
+                            />
+
+                        <Spinner
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/sex_spinner"
+                            android:textSize="@dimen/font_size_L"
+                            android:layout_alignBottom="@+id/age_label"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:spinnerMode="dropdown"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+                            android:layout_marginBottom="@dimen/padding_size_SS"
+                            />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:orientation="vertical"
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:text="年齢"
+                            android:id="@+id/age_label"
+                            android:textSize="@dimen/font_size_L"
+                            android:textColor="@color/app_text"
+                            android:layout_below="@+id/age_spinner"
+                            android:layout_alignParentLeft="true"
+                            android:layout_alignParentStart="true"
+                            android:layout_marginTop="@dimen/padding_size_SS"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+
+                            />
+
+                        <Spinner
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignTop="@+id/age_label"
+                            android:textSize="@dimen/font_size_L"
+                            android:id="@+id/age_spinner"
+                            android:spinnerMode="dialog"
+                            android:layout_marginLeft="@dimen/padding_size_SS"
+                            android:layout_marginRight="@dimen/padding_size_SS"
+                            android:layout_marginBottom="@dimen/padding_size_SS"
+
+                            />
+
+                    </LinearLayout>
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="困ったこと"
+            android:id="@+id/request_label"
+            android:textSize="@dimen/font_size_LL"
+            android:textColor="@color/app_text"
+            android:layout_below="@+id/center_view"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="@dimen/padding_size_SS"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_alignRight="@+id/center_view"
+            android:layout_alignEnd="@+id/center_view"/>
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/request_spinner"
+            android:spinnerMode="dialog"
+            android:textSize="@dimen/font_size_LL"
+            android:layout_below="@+id/request_label"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_marginBottom="@dimen/padding_size_SS"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="詳細"
+                android:id="@+id/detail_label"
+                android:textSize="@dimen/font_size_LL"
+                android:layout_marginLeft="@dimen/padding_size_SS"
+
+                android:textColor="@color/app_text"
+                android:layout_below="@+id/request_spinner"
+                android:layout_alignRight="@+id/request_label"
+                android:layout_alignEnd="@+id/request_label" />
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="音声認識"
+                android:id="@+id/voice_btn"
+                android:layout_above="@+id/detail_edit"
+                android:layout_below="@+id/request_spinner"
+                android:layout_toRightOf="@+id/center_view"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true"
+                android:layout_marginLeft="@dimen/padding_size_S"
+                android:gravity="center"
+                android:background="#c8f0c3" />
+
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/detail_edit"
+            android:background="@drawable/edit_text"
+            android:gravity="top|left"
+            android:layout_below="@+id/detail_label"
+            android:layout_alignLeft="@+id/detail_label"
+            android:layout_alignStart="@+id/detail_label"
+            android:layout_above="@+id/check_btn"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_marginRight="@dimen/padding_size_SS"
+            android:layout_marginBottom="@dimen/padding_size_SS"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="確認"
+            android:id="@+id/check_btn"
+            android:textSize="@dimen/font_size_L"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="@dimen/padding_size_SS"
+            android:layout_marginLeft="@dimen/padding_size_SS"
+            android:layout_marginRight="@dimen/padding_size_SS"
+            android:layout_marginBottom="@dimen/padding_size_SS"
+            android:background="#9aea9942" />
+
+    </LinearLayout>
+</ScrollView>

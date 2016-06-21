@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.fermfilm.iConnect.MainFragment" >
+    <item
+        android:id="@+id/discover"
+        android:title="@string/discover_peers" />
+
+    <item
+        android:id="@+id/disconnect"
+        android:title="@string/disconnect" />
+
+
+    <item
+        android:id="@+id/setting"
+        android:title="@string/setting" />
+    <item
+        android:id="@+id/client_mode"
+        android:title="@string/client_mode" />
+    <item
+        android:id="@+id/server_mode"
+        android:title="@string/server_mode" />
+
+    <item
+    android:id="@+id/service_start"
+    android:title="@string/service_start" />
+    <item
+        android:id="@+id/service_end"
+        android:title="@string/service_end" />
+    <item
+        android:id="@+id/receiver_start"
+        android:title="@string/receiver_start" />
+    <item
+        android:id="@+id/receiver_end"
+        android:title="@string/receiver_end" />
+</menu>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\menu\\wonder.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\menu\\wonder.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\menu\\chat.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\menu\\chat.xml"
+    },
+    {
+        "merged": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\build\\intermediates\\res\\merged\\debug\\menu\\send_image.xml",
+        "source": "D:\\fermfilm\\Documents\\Android\\iConnect\\app\\src\\main\\res\\menu\\send_image.xml"
+    }
+]

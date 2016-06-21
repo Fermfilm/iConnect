@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- person_image -->
+    <string-array name="person_array_drawable">
+        <item>@drawable/pe_youngman_25</item>
+        <item>@drawable/pe_youngman_26</item>
+        <item>@drawable/pe_youngman_27</item>
+        <item>@drawable/pe_youngman_28</item>
+        <item>@drawable/pe_youngman_35</item>
+        <item>@drawable/pe_youngman_49</item>
+        <item>@drawable/pe_girl_19</item>
+        <item>@drawable/pe_man_49</item>
+        <item>@drawable/pe_woman_69</item>
+        <item>@drawable/pe_oldman_75</item>
+        <item>@drawable/pe_oldwoman_85</item>
+        <item>@drawable/pe_oldwoman_86</item>
+        <item>@drawable/pe_oldwoman_100</item>
+        <item>@drawable/pe_whiteman2</item>
+
+    </string-array>
+
+    <!-- color_image -->
+    <string-array name="color_array_drawable">
+        <item>@drawable/cl_black</item>
+        <item>@drawable/cl_gray</item>
+        <item>@drawable/cl_white</item>
+        <item>@drawable/cl_peachpuff</item>
+        <item>@drawable/cl_blue</item>
+        <item>@drawable/cl_skyblue</item>
+        <item>@drawable/cl_green</item>
+        <item>@drawable/cl_yellowgreen</item>
+        <item>@drawable/cl_yellow</item>
+        <item>@drawable/cl_brown</item>
+        <item>@drawable/cl_coral</item>
+        <item>@drawable/cl_red</item>
+        <item>@drawable/cl_pink</item>
+        <item>@drawable/cl_purple</item>
+    </string-array>
+
+    <!-- title_image -->
+    <string-array name="title_array_drawable">
+        <item>@drawable/t_tamago</item>
+        <item>@drawable/t_hiyoko0</item>
+        <item>@drawable/t_hiyoko</item>
+        <item>@drawable/t_niwatori</item>
+        <item>@drawable/t_houou</item>
+
+    </string-array>
+
+</resources>

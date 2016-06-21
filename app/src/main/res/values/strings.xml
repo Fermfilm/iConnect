@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- App and Activities -->
+    <string name="app_name">iConnect</string>
+    <string name="title_activity_view_image">View image</string>
+    <string name="title_activity_chat">Chatroom</string>
+    <string name="title_activity_record_audio">Record audio</string>
+    <string name="title_activity_play_video">Play video</string>
+    <string name="title_activity_file_picker">File chooser</string>
+    <string name="title_activity_web_view">Open link....</string>
+    <string name="title_activity_drawing">Draw</string>
+
+    <!-- Menus -->
+    <string name="disconnect">Disconnect</string>
+    <string name="send_image">Send image</string>
+    <string name="download_image">Download image</string>
+    <string name="send_audio">Send audio message</string>
+    <string name="send_video">Send video message</string>
+    <string name="send_file">Send file</string>
+    <string name="send_drawing">Send drawing</string>
+    <string name="send_location">Send location</string>
+    <string name="send_request">Send request</string>
+    <string name="discover_peers">Discover</string>
+    <string name="setting">Setting</string>
+    <string name="test_chatroom">TestChatroom</string>
+    <string name="client_mode">Client MODE</string>
+    <string name="server_mode">Server MODE</string>
+    <string name="service_start">Service Start</string>
+    <string name="service_end">Service End</string>
+    <string name="receiver_start">Receiver Start</string>
+    <string name="receiver_end">Receiver End</string>
+
+
+    <!-- Popup menus -->
+    <string name="pick_image">Pick image</string>
+    <string name="take_photo">Take photo</string>
+
+    <!-- Buttons -->
+    <string name="go_to_settings_button">Go to Settings</string>
+    <string name="send_button">Send</string>
+    <string name="back_button">Back</string>
+    <string name="record_button">Start recording</string>
+    <string name="playback_button">Play</string>
+    <string name="stop_recording_button">Stop recording</string>
+    <string name="ok">OK</string>
+
+    <!-- TextView -->
+    <string name="go_to_settings_text">Click the image above to go to Settings and connect your device to others by Wifi-Direct</string>
+
+    <!-- EditTexts -->
+    <string name="set_chat_name">Please choose your chat name</string>
+    <string name="enter_text">Enter your message here</string>
+
+    <!-- Descriptions -->
+    <string name="full_screen_image">Full screen image</string>
+    <string name="file_icon">File icon</string>
+    <string name="paint">Choose a color</string>
+    <string name="small">Small</string>
+    <string name="medium">Medium</string>
+    <string name="large">Large</string>
+
+    <!-- Drawing buttons -->
+    <string name="new_drawing">New</string>
+    <string name="brush">Brush</string>
+    <string name="eraser">Eraser</string>
+    <string name="save_and_send">Save and Send</string>
+    <!-- Sex -->
+    <string-array
+        name="ja_sex_array">
+        <item>✕</item>
+        <item>男性</item>
+        <item>女性</item>
+    </string-array>
+    <string-array
+        name="en_sex_array">
+        <item>✕</item>
+        <item>Man</item>
+        <item>Woman</item>
+    </string-array>
+    <!-- Age -->
+    <string-array
+        name="ja_age_array">
+        <item>✕</item>
+        <item>10歳以下</item>
+        <item>20代</item>
+        <item>30代</item>
+        <item>40代</item>
+        <item>50代</item>
+        <item>60歳以上</item>
+    </string-array>
+    <string-array
+        name="en_age_array">
+        <item>✕</item>
+        <item>Ten years old or younger</item>
+        <item>Twenties</item>
+        <item>Thirties</item>
+        <item>Forties</item>
+        <item>Fifties</item>
+        <item>Sixty years old or older</item>
+    </string-array>
+    <!-- Request -->
+    <string-array
+        name="ja_req_array">
+        <item>座りたい</item>
+        <item>荷物を持って欲しい</item>
+        <item>道案内して欲しい</item>
+        <item>子供のことで助けて欲しい</item>
+        <item>通行で困っている</item>
+        <item>移動手段で困っている</item>
+        <item>人を探しています</item>
+        <item>とにかく助けて</item>
+    </string-array>
+    <string-array
+        name="en_req_array">
+        <item>Want to sit down.</item>
+        <item>Please carry my bag.</item>
+        <item>Show me the way.</item>
+        <item>Help for child.</item>
+        <item>I am troubled with traffic.</item>
+        <item>I am troubled with a means of transportation.</item>
+        <item>I am looking for a person.</item>
+        <item>Help!</item>
+    </string-array>
+
+    <!-- Select Image -->
+    <string-array
+        name="ja_select_image_array">
+        <item>写真を撮る</item>
+        <item>ライブラリから選択</item>
+        <item>イラストから選択</item>
+        <item>写真を消去</item>
+    </string-array>
+    <string-array
+        name="en_select_image_array">
+        <item>Take a photo.</item>
+        <item>Pick an image from gallery.</item>
+        <item>Pick an image from illustration.</item>
+        <item>Delete the image.</item>
+    </string-array>
+
+    <!-- Select Image2 -->
+    <string-array
+        name="ja_select_image2_array">
+        <item>写真を撮る</item>
+        <item>ライブラリから選択</item>
+    </string-array>
+    <string-array
+        name="en_select_image2_array">
+        <item>Take a photo.</item>
+        <item>Pick an image from gallery.</item>
+    </string-array>
+
+    <!-- Language -->
+    <string-array
+        name="language_array">
+        <item>日本語</item>
+        <item>English</item>
+    </string-array>
+
+    <!-- Title -->
+    <string-array
+        name="ja_title_array">
+        <item>愛の見習い</item>
+        <item>愛の半人前</item>
+        <item>愛のデビュー</item>
+        <item>愛の黒帯</item>
+        <item>愛のビッグバン</item>
+    </string-array>
+    <string-array
+        name="en_title_array">
+        <item>Beginner of Love</item>
+        <item>Childish of Love</item>
+        <item>Debut of Love</item>
+        <item>Black Belt of Love</item>
+        <item>Big Bang of Love</item>
+    </string-array>
+
+    <!-- Main -->
+    <string-array
+        name="ja_main_array">
+        <item>名前(ニックネーム)</item>
+        <item>性別</item>
+        <item>年齢</item>
+        <item>困ったこと</item>
+        <item>服</item>
+        <item>ズボン</item>
+        <item>詳細</item>
+        <item>音声認識</item>
+        <item>確認</item>
+        <item>翻訳</item>
+    </string-array>
+    <string-array
+        name="en_main_array">
+        <item>Name</item>
+        <item>Sex</item>
+        <item>Age</item>
+        <item>Request</item>
+        <item>Cloth</item>
+        <item>Jupon</item>
+        <item>Detail</item>
+        <item>Voice recognition</item>
+        <item>Check</item>
+        <item>Translation</item>
+    </string-array>
+
+    <!-- Setting -->
+    <string-array
+        name="ja_setting_array">
+        <item>通知設定</item>
+        <item>チェックをすると通知がくるようになります。</item>
+        <item>通知音</item>
+        <item>通知音鳴動時間設定</item>
+        <item>言語</item>
+    </string-array>
+    <string-array
+        name="en_setting_array">
+        <item>Notification</item>
+        <item>You can receive notification.</item>
+        <item>Ringtone</item>
+        <item>Ringing Time</item>
+        <item>Language</item>
+    </string-array>
+
+    <!-- ringing time -->
+    <string-array
+        name="ja_ringingTime_array">
+        <item>鳴らさない</item>
+        <item>1秒</item>
+        <item>5秒</item>
+        <item>10秒</item>
+    </string-array>
+    <string-array
+        name="en_ringingTime_array">
+        <item>No ringing</item>
+        <item>1 second</item>
+        <item>5 seconds</item>
+        <item>10 seconds</item>
+    </string-array>
+
+    <!-- Setting -->
+    <string-array
+        name="ja_coupon_array">
+        <item>通知設定</item>
+        <item>チェックをすると通知がくるようになります。</item>
+        <item>通知音</item>
+        <item>通知音鳴動時間設定</item>
+        <item>言語</item>
+    </string-array>
+
+    <!-- Genre -->
+    <string-array
+        name="ja_genre_array">
+        <item>飲食</item>
+        <item>衣服</item>
+        <item>アウトドア</item>
+        <item>ダイエット・健康</item>
+        <item>コスメ</item>
+        <item>スマホ・パソコン</item>
+        <item>テレビ・オーディオ・カメラ</item>
+        <item>家電</item>
+        <item>家具</item>
+        <item>ガーデニング</item>
+        <item>音楽</item>
+        <item>ゲーム・おもちゃ</item>
+        <item>スポーツ</item>
+        <item>車・バイク</item>
+        <item>本</item>
+        <item>その他</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <!-- Drawing: brush sizes -->
+    <dimen name="small_brush">10dp</dimen>
+	<integer name="small_size">10</integer>
+	<dimen name="medium_brush">20dp</dimen>
+	<integer name="medium_size">20</integer>
+	<dimen name="large_brush">30dp</dimen>
+	<integer name="large_size">30</integer>
+
+    <!-- padding sizes -->
+    <dimen name="padding_size_SS">4dp</dimen>
+    <dimen name="padding_size_S">6dp</dimen>
+    <dimen name="padding_size_M">8dp</dimen>
+    <dimen name="padding_size_L">12dp</dimen>
+    <dimen name="padding_size_LL">16dp</dimen>
+    <dimen name="padding_size_LLL">32dp</dimen>
+    <!-- Text sizes -->
+    <dimen name="font_size_SS">10sp</dimen>
+    <dimen name="font_size_S">14sp</dimen>
+    <dimen name="font_size_M">16sp</dimen>
+    <dimen name="font_size_L">20sp</dimen>
+    <dimen name="font_size_LL">24sp</dimen>
+
+</resources>

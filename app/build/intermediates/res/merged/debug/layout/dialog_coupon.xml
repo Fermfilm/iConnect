@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:weightSum="1"
+        android:id="@+id/container">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#a9ebba89">
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="1">
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical">
+
+                    <ImageButton
+                        android:layout_width="170dp"
+                        android:layout_height="170dp"
+                        android:id="@+id/d_gods_img"
+                        android:background="@drawable/test_gods"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text = "◯◯ラーメン"
+                        android:id="@+id/d_gods_name"
+                        android:layout_centerHorizontal="true"
+                        android:textSize="@dimen/font_size_M"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:padding="@dimen/padding_size_SS"
+                        android:background="@drawable/edit_text"
+                        android:textColor="#000000" />
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="20％OFFで500円！\n自慢の豚骨ラーメンを召し上がれ！"
+                        android:id="@+id/d_coupon_detail"
+                        android:layout_centerHorizontal="true"
+                        android:textSize="@dimen/font_size_M"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:padding="@dimen/padding_size_SS"
+                        android:background="@drawable/edit_text"
+                        android:textColor="#000000" />
+
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="1" >
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical" >
+
+                    <ImageButton
+                        android:layout_width="170dp"
+                        android:layout_height="170dp"
+                        android:id="@+id/d_map_image"
+                        android:background="@drawable/test_map"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:layout_marginBottom="@dimen/padding_size_SS"
+                        />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" >
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="店名：◯◯◯\n住所：〒◯◯◯-△△△△\n◯◯県△△市◯◯区△丁目◯番\n電話番号:◯◯◯-△△△△\nURL:http://◯◯◯△△△△"
+                        android:id="@+id/d_shop_detail"
+                        android:layout_centerHorizontal="true"
+                        android:textSize="@dimen/font_size_M"
+                        android:layout_marginTop="@dimen/padding_size_SS"
+                        android:layout_marginLeft="@dimen/padding_size_SS"
+                        android:layout_marginRight="@dimen/padding_size_SS"
+                        android:padding="@dimen/padding_size_SS"
+                        android:background="@drawable/edit_text"
+                        android:textColor="#000000" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="注意事項\n一人一品限り\n2015/10/25の14:00～16:00まで使用可能"
+                    android:id="@+id/d_coupon_note"
+                    android:layout_centerHorizontal="true"
+                    android:textSize="@dimen/font_size_M"
+                    android:layout_marginTop="@dimen/padding_size_SS"
+                    android:layout_marginLeft="@dimen/padding_size_SS"
+                    android:layout_marginRight="@dimen/padding_size_SS"
+                    android:padding="@dimen/padding_size_SS"
+                    android:background="@drawable/edit_text"
+                    android:textColor="#000000" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,2 @@
+CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\fermfilm\iConnect\LocationFragment$override.class
+CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

@@ -1,0 +1,21 @@
+環境構築手順
+1. JDK をインストールする
+JDK8をOracle公式サイトの下記URLからダウンロードしてインストールする.
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+2．JDKのパスを通す
+環境変数で「JAVA_HOME」を作成しJDKのbinフォルダがあるパスを設定する．
+例) C:\Program Files\Java\jre1.8.0_45
+環境変数は
+「スタートメニュー」→「コントロールパネル」→「システム」→「詳細設定タブ」→「環境変数」
+で変更することができる．
+
+3. Android Studio をインストールする
+Android Studio を下記URLからダウンロードしてインストールする．
+http://developer.android.com/intl/ja/sdk/index.html
+
+4．toolsのパスを通す
+環境変数「PATH」にAndroid Studio内の「sdk/platform-tools」と「sdk/tools」のパスを「;」区切りで追加する
+
+
+
