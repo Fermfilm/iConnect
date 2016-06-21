@@ -77,7 +77,8 @@ public class A_ResponseActivity extends Activity {
         mReceiver = WifiDirectBroadcastReceiver.createInstance();
         mReceiver.setmActivity(this);
 
-        positive = "YES";
+
+        positive = "YESsss";
 
         //testooooooooooooooooooooooo
 

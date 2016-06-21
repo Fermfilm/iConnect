@@ -11,6 +11,7 @@ public class ActivityUtilities {
     {
         int titleId = 0;
 
+
         if(Build.VERSION.SDK_INT>=Build.VERSION_CODES.HONEYCOMB)
             titleId = activity.getResources().getIdentifier("action_bar_title", "id", "android");
         else
