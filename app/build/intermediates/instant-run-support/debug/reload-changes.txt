@@ -1,2 +1,8 @@
-CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\fermfilm\iConnect\LocationFragment$override.class
+CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\fermfilm\iConnect\ActivityUtilities$override.class
+CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\fermfilm\iConnect\A_ResponseActivity$3$override.class
+CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\fermfilm\iConnect\A_ResponseActivity$override.class
 CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\fermfilm\iConnect\A_ResponseActivity$5$override.class
+CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\fermfilm\iConnect\A_ResponseActivity$1$override.class
+CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\fermfilm\iConnect\A_ResponseActivity$4$override.class
+CHANGED,D:\fermfilm\Documents\Android\iConnect\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\fermfilm\iConnect\A_ResponseActivity$2$override.class
